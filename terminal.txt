@@ -1,0 +1,1 @@
+g++ main.cpp -o test Card.cpp Deck.cpp Game.cpp CardGuessingGame.cpp BlackJack.cpp Player.cpp Statistic.cpp
